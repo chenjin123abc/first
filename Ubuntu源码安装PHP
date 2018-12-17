@@ -1,0 +1,5 @@
+Ubuntu源码安装PHP
+第一步下载PHP压缩包。
+地址为：http://php.net/get/php-7.0.9.tar.gz/from/a/mirror；
+第二部：然后通过rz的形式将压缩包上传到Ubuntu。
+解压：tar -zxf /tmp/php-7.0.9.tar.gz
