@@ -61,6 +61,4 @@ class CAbsQCEvaluateResult extends AAbsPersistenceableObject {
         
     }
 
-
-
 }
